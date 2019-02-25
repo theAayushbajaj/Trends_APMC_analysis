@@ -11,7 +11,7 @@ This project consists of Analysis on APMC/Mandi prices analysis.
 To understand trends in APMC (Agricultural produce market committee)/mandi price & quantity arrival data for different commodities in Maharashtra.
 
 ##### Objective:
-> 1. Test and filter outliers.
+1. Test and filter outliers.
 2. Understand price fluctuations accounting the seasonal effect
 3. Detect seasonality type (multiplicative or additive) for each cluster of APMC and commodities
 4. De-seasonalise prices for each commodity and APMC according to the detected seasonality type
